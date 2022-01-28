@@ -15,10 +15,10 @@
     "web",
     "server",
     "port",
+    "node",
     "fs",
     "args",
-    "http",
-    "node"
+    "http"
   ],
   "author": "Ernest Ermongkonchai",
   "license": "GPL-3.0-or-later",
@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/comp426-2022-spring/a01-ErnestErmongkonchai-UNC#readme",
   "dependencies": {
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.5",
+    "wget": "0.0.1"
   }
 }
